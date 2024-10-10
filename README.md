@@ -26,7 +26,7 @@
 ![탁도 수준 값](https://github.com/user-attachments/assets/d8b22410-87c1-4fea-bb72-08902b5a5f22)
 ![잔류염소 농도 값](https://github.com/user-attachments/assets/2818e890-540d-4e73-b907-30fda48080a3)
 
-수질에 관한 컬럼 사용
+안전한 수치는 한국소비자원
 
 ![콘솔 결과 값](https://github.com/user-attachments/assets/57abf49e-b1b7-4dbb-a09f-ee499dfe942e)
 
