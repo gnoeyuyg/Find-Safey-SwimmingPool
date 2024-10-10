@@ -6,7 +6,7 @@
 
 <b>프로젝트 개요 : pH 값, 대장균 검출값, 탁도 수준값, 잔류염소 농도값을 파악해 믿고 갈 수 있는 수영장 파악하기</b>
 
-<b>사용 라이브러리 : matplotlib, pandas</b>
+<b>사용 라이브러리 : matplotlib, pandas</b></u>
 
 ![데이터드림](https://github.com/user-attachments/assets/c092e44f-1af5-4e6d-b43a-d8666d0e6ec7)
 
