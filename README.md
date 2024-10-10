@@ -10,8 +10,8 @@
 
 ![데이터드림](https://github.com/user-attachments/assets/c092e44f-1af5-4e6d-b43a-d8666d0e6ec7)
 
-데이터 출처 
- - 경기데이터드림의 데이터셋 사용</b>
+<u>데이터 출처 
+ - 경기데이터드림의 데이터셋 사용</b></u>
 
 ![사용한 컬럼](https://github.com/user-attachments/assets/0809f64a-4003-4142-922f-b2b2a9499aca)
 
