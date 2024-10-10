@@ -19,7 +19,7 @@
 
 ![데이터셋 수](https://github.com/user-attachments/assets/774cb611-b98d-423d-9bfa-9311f6f80790)
 
-사용한 데이터셋 수 : 2460개 (전국 수영장의 개수)
+<u>사용한 데이터셋 수 : 2460개 (전국 수영장의 개수)</u>
 
 ![pH값](https://github.com/user-attachments/assets/807d021f-20f1-45a4-8e16-152e0c026425)
 ![대장균 검출 값](https://github.com/user-attachments/assets/b83b2ae4-1932-4b96-98fd-ae274b6286d1)
